@@ -1,0 +1,1 @@
+1. when creating the virtual environment, install the packages from the pharmacy/requirements.txt
